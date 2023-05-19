@@ -32,5 +32,5 @@ print('Ended in: {}'.format(end_time - start_time))
 for d in open_p.items():
     print(d)'''
 # ----------------------------------------------------------------------------------------------------------------
-#  print(get_config('10.1.201.213', 'ainur', '1q2w3e', 'uname -api'))
+#  print(get_config('10.1.201.213', 'log', 'pass', 'uname -api'))
 print(ping('10.1.201.58'))
